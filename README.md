@@ -1,2 +1,2 @@
 # aji-hackerrank
-This is the repository of my hackerrank account
+This is repository of my hackerrank account
